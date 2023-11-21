@@ -1,0 +1,10 @@
+2,programacion python,pedro,2023,disponible
+4,matematica aplicada a la tecnologia industrial,marco,2001,disponible
+5,linda muerte,fredyy,1985,disponible
+6,el corralito 2001,delarua,2001,disponible
+7,pricioneros de la sociedad,maria martha,2023,disponible
+8,el enganio,claudia,1984,disponible
+9,sofia la princesa,sofia,2022,disponible
+1,la sombro,litoral,2023,disponible
+3,el rey del mercado,pablo antonio,2000,disponible
+10,todo cocina,maru botana,2005,disponible
